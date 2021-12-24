@@ -1,0 +1,8 @@
+{
+  "name": "wdev/ordens_cripto",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}

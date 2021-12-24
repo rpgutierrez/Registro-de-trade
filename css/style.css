@@ -1,0 +1,38 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  color: rgb(94, 190, 158);
+}
+
+.conteiner {
+  margin-top: 30px;
+}
+#botaodesloga {
+  margin-right: 30px;
+  background-image: url(../img/login.png);
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+}
+
+#buttonSalvar {
+  margin-top: 32px;
+}
+
+#table tbody {
+  background-color: rgba(112, 240, 206, 0.541);
+}
+
+#imgg {
+  background-image: url(../img/cripto.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 60%;
+  margin-left: 30px;
+}
